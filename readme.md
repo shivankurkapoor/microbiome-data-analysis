@@ -57,10 +57,10 @@ Alpha diversity corresponds to the species diversity within a group. There are v
 
 
 References
-1. Zero-Inflated Beta Regression for Differential Abundance Analysis with Metagenomics Data -[https://www.ncbi.nlm.nih.gov/pubmed/26675626]()
-2. Statistical significance of genomewide studies -  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC170937]()
-3. UniFrac: A New Phylogenetic Method for Comparing Microbial Communities - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1317376/]()
-4. QIIME - [http://qiime.org/]()
-5. MUSCLE - [https://en.wikipedia.org/wiki/MUSCLE_(alignment_software)]()
-6. Mothur - [https://www.ncbi.nlm.nih.gov/pubmed/19801464]()
-7. Alpha Diversity Measure - [http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha.html]()
+1. Zero-Inflated Beta Regression for Differential Abundance Analysis with Metagenomics Data -[https://www.ncbi.nlm.nih.gov/pubmed/26675626](https://www.ncbi.nlm.nih.gov/pubmed/26675626)
+2. Statistical significance of genomewide studies -  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC170937](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC170937)
+3. UniFrac: A New Phylogenetic Method for Comparing Microbial Communities - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1317376/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1317376/)
+4. QIIME - [http://qiime.org/](http://qiime.org/)
+5. MUSCLE - [https://en.wikipedia.org/wiki/MUSCLE_(alignment_software)](https://en.wikipedia.org/wiki/MUSCLE_(alignment_software))
+6. Mothur - [https://www.ncbi.nlm.nih.gov/pubmed/19801464](https://www.ncbi.nlm.nih.gov/pubmed/19801464)
+7. Alpha Diversity Measure - [http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha.html](http://scikit-bio.org/docs/latest/generated/skbio.diversity.alpha.html)
