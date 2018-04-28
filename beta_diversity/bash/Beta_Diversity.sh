@@ -1,0 +1,4 @@
+chmod 775 /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/Bash/Beta_Diversity.sh
+source  activate qiime1
+~/anaconda2/envs/qiime1/bin/python ~/anaconda2/envs/qiime1/bin/jackknifed_beta_diversity.py -e 80 -f  -m /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/mapping.txt -o /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity -i /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/otu_table.biom -t /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/phylo.tre
+/home/leelab/anaconda2/bin/python /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/betadiversity.py --task=2d_plots --mapping=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/mapping.txt --output=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity --script_path=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/Bash --biom=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/otu_table.biom

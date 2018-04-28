@@ -1,0 +1,4 @@
+chmod 775 /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/Bash/Pick_OTUs.sh
+source  activate qiime1
+~/anaconda2/envs/qiime1/bin/python ~/anaconda2/envs/qiime1/bin/pick_otus.py -m mothur -o /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity -i /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/combined_aligned.fasta
+/home/leelab/anaconda2/bin/python /home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/betadiversity.py --task=modify_otus --aligned_file=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/combined_aligned.fasta --output=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity --script_path=/home/leelab/PycharmProjects/BioInfoPipeLine/BetaDiversity/Bash
