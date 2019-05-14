@@ -54,7 +54,8 @@ Alpha diversity corresponds to the species diversity within a group. There are v
 
     where <img src="https://tex.s2cms.ru/svg/p_i" alt="p_i" /> is the proportion of the community represented by OUT <img src="https://tex.s2cms.ru/svg/i" alt="i" />
 
-
+Paper
+https://linkinghub.elsevier.com/retrieve/pii/S2590177X19300393
 
 References
 1. Zero-Inflated Beta Regression for Differential Abundance Analysis with Metagenomics Data -[https://www.ncbi.nlm.nih.gov/pubmed/26675626](https://www.ncbi.nlm.nih.gov/pubmed/26675626)
